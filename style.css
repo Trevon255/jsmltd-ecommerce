@@ -1,0 +1,57 @@
+/* <!-- Name: Trevon Fullwood --> */
+/* <!-- ID#: 2306245 --> */
+/* <!-- Web Programming --> */
+/* <!-- Miss Badhika --> */
+/* <!-- Assignment 2 --> */
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+
+/* Navaigation bar */
+.navbar {
+	background-color: #2e7d32;
+	color: white;
+	padding: 15px;
+}
+
+.navbar a{
+	color: white;
+	margin: 10px;
+	text-decoration: none;
+}
+
+.hero {
+	text-align: center;
+	padding: 100px;
+	background-color: #f4f4f4;
+}
+
+.hero h1{
+	color: #2e7d32;
+}
+
+button {
+	padding: 10px 20px;
+	background-color: #2e7d32;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
+
+/* For Products */
+.products {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	padding: 20px;
+}
+
+.product {
+	border: 1px solid #ccc;
+	padding: 20px;
+	text-align: center;
+	width: 200px;
+}
